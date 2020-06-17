@@ -1,0 +1,1 @@
+Auto Physical condition check
